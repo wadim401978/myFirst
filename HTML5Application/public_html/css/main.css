@@ -29,6 +29,9 @@ p {
     color: #990000;
 }
 
+body {
+    background-color: #b3d4fc;
+}
 audio,
 canvas,
 iframe,
