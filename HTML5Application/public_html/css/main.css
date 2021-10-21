@@ -25,6 +25,10 @@ hr {
     padding: 0;
 }
 
+p {
+    color: #990000;
+}
+
 audio,
 canvas,
 iframe,
